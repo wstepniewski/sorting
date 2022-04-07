@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+D:/projektyCPP/sorting/main.c
+time.h
+-
+sort.h
+D:/projektyCPP/sorting/sort.h
+stdlib.h
+-
+memory.h
+-
+stdio.h
+-
+
+D:/projektyCPP/sorting/sort.c
+sort.h
+D:/projektyCPP/sorting/sort.h
+
+D:/projektyCPP/sorting/sort.h
+
